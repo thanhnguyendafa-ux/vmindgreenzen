@@ -18,4 +18,8 @@ View your app in AI Studio: https://ai.studio/apps/drive/1CcDOnCf0jE5swxu2cRz_t3
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+<<<<<<< HEAD
 "# vmind-focus" 
+=======
+"# vmindgreenzen" 
+>>>>>>> ed0543b7b219d243a82d41f75243141f9e065b6d
